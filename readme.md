@@ -2,7 +2,7 @@
 Web server application. Blog site where you can share your own experiences.
 
 ## Instructions
-- Install packages in requirements.txt using the command: "pip3 install -r requirements.txt"
+- Install required packages.
 - run main.py
 - The first person who registers is the admin and is able to create, edit and delete posts.
 - Any users who register later can comment on posts.
